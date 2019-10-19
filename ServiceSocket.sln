@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceSocket", "ServiceSocket\ServiceSocket.csproj", "{056EFA7D-8950-4C7D-A5C8-23799B030ADA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{056EFA7D-8950-4C7D-A5C8-23799B030ADA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{056EFA7D-8950-4C7D-A5C8-23799B030ADA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{056EFA7D-8950-4C7D-A5C8-23799B030ADA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{056EFA7D-8950-4C7D-A5C8-23799B030ADA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48AD61BB-57AA-4656-AB2E-9634E055A189}
+	EndGlobalSection
+EndGlobal

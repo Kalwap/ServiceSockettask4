@@ -1,0 +1,14 @@
+C:\Users\amoniacc\source\repos\ServiceSocket\ServiceSocket\bin\Debug\netcoreapp2.1\ServiceSocket.deps.json
+C:\Users\amoniacc\source\repos\ServiceSocket\ServiceSocket\bin\Debug\netcoreapp2.1\ServiceSocket.runtimeconfig.json
+C:\Users\amoniacc\source\repos\ServiceSocket\ServiceSocket\bin\Debug\netcoreapp2.1\ServiceSocket.runtimeconfig.dev.json
+C:\Users\amoniacc\source\repos\ServiceSocket\ServiceSocket\bin\Debug\netcoreapp2.1\ServiceSocket.dll
+C:\Users\amoniacc\source\repos\ServiceSocket\ServiceSocket\bin\Debug\netcoreapp2.1\ClassLibtask1.dll
+C:\Users\amoniacc\source\repos\ServiceSocket\ServiceSocket\bin\Debug\netcoreapp2.1\ClassLibtask1.xml
+C:\Users\amoniacc\source\repos\ServiceSocket\ServiceSocket\obj\Debug\netcoreapp2.1\ServiceSocket.csprojAssemblyReference.cache
+C:\Users\amoniacc\source\repos\ServiceSocket\ServiceSocket\obj\Debug\netcoreapp2.1\ServiceSocket.csproj.CoreCompileInputs.cache
+C:\Users\amoniacc\source\repos\ServiceSocket\ServiceSocket\obj\Debug\netcoreapp2.1\ServiceSocket.AssemblyInfoInputs.cache
+C:\Users\amoniacc\source\repos\ServiceSocket\ServiceSocket\obj\Debug\netcoreapp2.1\ServiceSocket.AssemblyInfo.cs
+C:\Users\amoniacc\source\repos\ServiceSocket\ServiceSocket\obj\Debug\netcoreapp2.1\ServiceSocket.csproj.CopyComplete
+C:\Users\amoniacc\source\repos\ServiceSocket\ServiceSocket\bin\Debug\netcoreapp2.1\ServiceSocket.pdb
+C:\Users\amoniacc\source\repos\ServiceSocket\ServiceSocket\obj\Debug\netcoreapp2.1\ServiceSocket.dll
+C:\Users\amoniacc\source\repos\ServiceSocket\ServiceSocket\obj\Debug\netcoreapp2.1\ServiceSocket.pdb
